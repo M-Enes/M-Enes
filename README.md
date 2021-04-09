@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Muhammed Enes Karaca.
 
-I'm a student at high school in Kahramanmaras, Turkey. I love explore new technologies. I like to join conferences. I love open source projects and develop things on my GitHub page.
+I'm a student at high school in **Kahramanmaras, Turkey**. I love explore new technologies. I like to join conferences. I love `open source projects` and develop things on **my GitHub page**.
 
  - 💻 I'm currently working on [**Kabatas Akademi**](https://www.kabatasakademi.com).
  - 🌱 I'm currently learning **ASP .NET Technologies**.
