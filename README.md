@@ -7,7 +7,7 @@ I'm a student at high school in **Kahramanmaras, Turkey**. I love explore new te
  - 🌱 I'm currently learning **ASP .NET Technologies**.
  - 👯 I'm currently collaborate on [**Code.Ai**](https://github.com/code-ai-official).
  - 🤔 I'm looking for help with **Azure, Heroku, Shell scripting, Google Cloud, Kubernetes, Docker**.
- - I have a  YouTube channel [**Software Lover**](https://www.youtube.com/channel/UCnZw8EJIzA7oBMb_7Fa6xew) with my friend Muzaffer Murat.
+ - I have a  **YouTube channel** [**Software Lover**](https://www.youtube.com/channel/UCnZw8EJIzA7oBMb_7Fa6xew) with my friend **Muzaffer Murat**.
  - 📫 How to reach me: on my e-mail [**karaca.1453.27@gmail.com**](mailto:karaca.1453.27@gmail.com).
 
 <!--
