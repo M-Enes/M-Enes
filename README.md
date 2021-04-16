@@ -1,10 +1,11 @@
 ### Hi there 👋
+
 I am Muhammed Enes Karaca.
 
 I'm a student at high school in **Kahramanmaras, Turkey**. I love explore new technologies. I like to join conferences. I love open source projects and develop things on **my GitHub page**.
 
  - 💻 I'm currently working on [**Kabatas Akademi**](https://www.kabatasakademi.com).
- - 🌱 I'm currently learning **ASP .NET Technologies**.
+ - 🌱 I'm currently learning **ASP .NET Technologies**, **Typescript**, **Node.js**, **Deno**, **Java**, **Clojure**, **React**.
  - 👯 I'm currently collaborate on [**Code.Ai**](https://github.com/code-ai-official).
  - 🤔 I'm looking for help with **Azure, Heroku, Shell scripting, Google Cloud, Kubernetes, Docker**.
  - I have a  **YouTube channel** [**Software Lover**](https://www.youtube.com/channel/UCnZw8EJIzA7oBMb_7Fa6xew) with my friend **Muzaffer Murat**.
