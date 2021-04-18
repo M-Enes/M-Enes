@@ -17,3 +17,5 @@ I'm a student at high school in **Kahramanmaras, Turkey**. I love explore new te
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-enes&show_icons=true&locale=en&theme=dark" alt="malibyk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-enes&theme=dark" alt="malibyk" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-enes&theme=dark)
