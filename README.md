@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 I am Muhammed Enes Karaca.
 
-<p align="left"> <a target="_blank" href="https://www.youtube.com/channel/UCnZw8EJIzA7oBMb_7Fa6xew"><img src="https://img.shields.io/youtube/channel/subscribers/UCnZw8EJIzA7oBMb_7Fa6xew?label=Yazilim%20sever&logo=Youtube&style=for-the-badge" alt="m-enes" /></a>
+<p align="left">
 
 I'm a student at high school in **Kahramanmaras, Turkey**. I love explore new technologies. I like to join conferences. I love open source projects and develop things on **my GitHub page**.
 
@@ -10,7 +10,7 @@ I'm a student at high school in **Kahramanmaras, Turkey**. I love explore new te
  - 🌱 I'm currently learning **ASP .NET Technologies**, **Java**, **Clojure**, **C++**.
  - 👯 I'm currently collaborate on [**Code.Ai**](https://github.com/code-ai-official).
  - 🤔 I'm looking for help with **Azure, Heroku, Shell scripting, Google Cloud, Kubernetes, Docker**.
- - I have a  **YouTube channel** [**Software Lover**](https://www.youtube.com/channel/UCnZw8EJIzA7oBMb_7Fa6xew) with my friend **Muzaffer Murat**.
+ - I have a  **YouTube channel** <a target="_blank" href="https://www.youtube.com/channel/UCnZw8EJIzA7oBMb_7Fa6xew"><img src="https://img.shields.io/youtube/channel/subscribers/UCnZw8EJIzA7oBMb_7Fa6xew?label=Yazilim%20sever&logo=Youtube" alt="m-enes" /></a> with my friend **Muzaffer Murat**.
  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammed-enes-karaca-15373020b/).
  
 <h2 align="center">Languages and Tools</h2>
